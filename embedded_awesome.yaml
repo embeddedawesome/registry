@@ -1,0 +1,10 @@
+name: Embedded Awesome Component Registry
+id: embedded-awesome
+
+provides:
+  components:
+    cpp-semver:
+      packages:
+        default:
+          url: git@github.com:embeddedawesome/cpp-semver.git
+          branch: main
