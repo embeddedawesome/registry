@@ -8,3 +8,8 @@ provides:
         default:
           url: git@github.com:embeddedawesome/cpp-semver.git
           branch: main
+    openssl:
+      packages:
+        default:
+          url: https://github.com/embeddedawesome/openssl.git
+          branch: master
